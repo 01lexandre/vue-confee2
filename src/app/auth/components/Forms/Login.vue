@@ -1,3 +1,4 @@
+<!--suppress JSAnnotator -->
 <script>
 import { mapActions } from '../../../../../node_modules/vuex'
 import { isEmpty } from 'lodash'
